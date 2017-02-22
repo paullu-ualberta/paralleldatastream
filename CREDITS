@@ -1,0 +1,26 @@
+CREDITS
+
+(non-standard file format, for now)
+
+The main, original implementer of PDS is Nooshin Eghbal.
+	<eghbal@ualberta.ca>
+	
+Important contributions made by Hamidreza Anvari.
+	<hr.anvari@ualberta.ca>
+
+Both Nooshin and Hamdireza worked under the Ph.D supervision of
+Paul Lu, Professor of Computing Science, University of Alberta,
+Edmonton, Alberta, Canada.
+	<paullu@cs.ualberta.ca>
+
+--------------------------------------
+As noted, some of this code comes from the book Unix Network Programming
+(UNPv1), 3rd Edition, at http://www.unpbook.com
+
+As far as we can tell, the UNPv1 code is available for use by our
+project.  We explicitly state that the UNP code is NOT subject to
+our copyright and is also not released (not by us anyways) under
+the GPL.  We merely use it under "fair use" and will respect any
+copyright claim presented to that code, by the estate of Richard
+Stevens, Bill Fenner, Andrew M. Rudoff, or Addison-Wesley publishing.
+--------------------------------------
