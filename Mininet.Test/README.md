@@ -1,5 +1,5 @@
 # PDS
-Parallel Data Streams Tool
+Parallel Data Streams Tool, testing using Mininet
 
 ## Overview
 PDS is a tool on top of which other client-server programs like rsync can run.
