@@ -15,7 +15,7 @@ us to experiment with it and produce real performance results on
 both emulated WANs (using netem/tc) and a real WAN (between the
 University of Alberta and Sherbrooke University).
 
-Please see the draft paper in the repository for more information.
+Please see the draft paper in the repository (Docs) for more information.
 
 Known issues, to be fixed:
 
