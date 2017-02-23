@@ -1,4 +1,4 @@
-# PDS
+# PDS and Mininet
 Parallel Data Streams Tool, testing using Mininet
 
 ## Overview
