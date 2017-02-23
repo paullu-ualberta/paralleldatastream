@@ -1,4 +1,4 @@
-# Parallel Data Stream (PDS) tool
+# Parallel Data Streams (PDS) tool
 
 Implemented by Nooshin Eghbal, Hamidreza Anvari, and others (see CREDITS)
 
