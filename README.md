@@ -23,3 +23,4 @@ Known issues, to be fixed:
 2.  Unit tests required
 3.  Command-line compatibility with Secure Shell/OpenSSH
 4.  Lots of code clean-up.  Lots.  We know.  Help please.
+5.  Documentation.
