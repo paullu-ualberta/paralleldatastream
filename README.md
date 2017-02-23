@@ -10,9 +10,16 @@ Dept. of Computing Science, University of Alberta
 
 Released under the GPL 3.0 licence.
 
-Note:  This software is an Alpha release.  It works well enough for us
-to experiment with it and produce real performance on both emulated
-WANs (using netem/tc) and a real WAN (between the University of Alberta
-and Sherbrooke University).
+Note:  This software is an Alpha release.  It works well enough for
+us to experiment with it and produce real performance results on
+both emulated WANs (using netem/tc) and a real WAN (between the
+University of Alberta and Sherbrooke University).
 
 Please see the draft paper in the repository for more information.
+
+Known issues, to be fixed:
+
+1.  Testing on systems other than Linux.
+2.  Unit tests required
+3.  Command-line compatibility with Secure Shell/OpenSSH
+4.  Lots of code clean-up.  Lots.  We know.  Help please.

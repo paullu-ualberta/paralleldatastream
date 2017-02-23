@@ -1,5 +1,6 @@
 CREDITS
 
+Maintained by Paul Lu, <paullu@cs.ualberta.ca>
 (non-standard file format, for now)
 
 The main, original implementer of PDS is Nooshin Eghbal.
@@ -11,7 +12,6 @@ Important contributions made by Hamidreza Anvari.
 Both Nooshin and Hamdireza worked under the Ph.D supervision of
 Paul Lu, Professor of Computing Science, University of Alberta,
 Edmonton, Alberta, Canada.
-	<paullu@cs.ualberta.ca>
 
 --------------------------------------
 As noted, some of this code comes from the book Unix Network Programming
