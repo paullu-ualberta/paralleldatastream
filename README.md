@@ -24,3 +24,11 @@ Known issues, to be fixed:
 3.  Command-line compatibility with Secure Shell/OpenSSH
 4.  Lots of code clean-up.  Lots.  We know.  Help please.
 5.  Documentation.
+
+Known errors/mesages:
+
+1.  After an rsync, you might see the error message:
+
+“rsync error: sibling process crashed (code 15) at main.c(1165) [sender=3.1.1]”
+
+However, the file has been transferred successfully.
